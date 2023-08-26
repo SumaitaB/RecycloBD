@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wm3"
+    tools:context=".SellProduct">
+
+
+    <TextView
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="100dp"
+        android:text="Choose Product"
+        android:textSize="25sp"
+        android:textColor="#000000"
+
+        />
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="190sp"
+            android:layout_marginLeft="100dp"
+            android:layout_height="50sp"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/menu"
+
+
+            android:backgroundTint="@color/colorPrimaryDark"
+
+
+            />
+
+
+
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button"
+            android:layout_below="@id/spinner"
+
+            android:text="Submit"
+            android:textColor="#000000"
+
+            android:textSize="20sp"/>
+
+
+
+
+</RelativeLayout>
