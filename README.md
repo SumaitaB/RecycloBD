@@ -1,4 +1,4 @@
-<h2>RecycloBD</h2>
+# RecycloBD
 <i>One man’s trash is another man’s treasure</i>
 <hr>
 <h3>Problem Description:</h3>
