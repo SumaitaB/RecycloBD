@@ -1,11 +1,13 @@
 # RecycloBD
 <i>One man’s trash is another man’s treasure</i>
 <hr>
-<h3>Problem Description:</h3>
+
+## Problem Description:
 
 Textile, Plastic, Paper, Electronics and Garment Industry play a predominant role at enhancing the GDP of Bangladesh. However, textile, plastic, paper waste and scrap recycling & management is something that’s not very often talked about but is definitely causing a serious setback in our combined and day-to-day lives. This scrap and waste material issue have managed to turn into a billion-dollar problem at the moment and if this problem could be tackled properly, it would not only create new employment opportunities, giving rise to small independently owned businesses but will also give rise to the overall well-being of the state as well as creating a major positive impact on the all-embracing exacerbating climate state of our country. 
 <hr>
-<h3>What’s the hack?</h3>
+
+## What’s the hack?
 
 Now that we know the problems is very concerning, what can we do about it? Our idea is to create a platform for both individual customers and industries so that this massive amount of waste can be turned into something useful and worth the money. 
 To tackle this billion-dollar issue, introducing- RecycloBD, a mobile app that facilitates turning trash into treasure! In all seriousness, the aim of this app is to ensure proper waste recycling and management on both personal and industrial level. 
@@ -17,7 +19,8 @@ On the other hand, people who turn waste into useful resources can also sell the
 Fig 01: Rug made from Textile scrap. [Image source: Moment Open/Getty Images]
 Rugs shown in Fig 01: can be made from textile scraps and then such rugs can be sold at a good price through our app.
 <hr>
-<h2>App Details</h2>
+
+## App Details
 <h3>Working Principle:</h3>
 Oftentimes, we face situations where we are willing to donate clothes, purses, furniture, books and other goods but can’t figure out who exactly would seek for such donations. Also, there are times when we want to resell old/used/worn-out clothing, accessories, books, electronic devices for some extra income or simply want to get rid of the scrap fabrics, metals, glass pieces and electronics lying around in our home. In such cases, when the user decides to donate items, through this app the items are collected from the user and donated to the people who are in dire need. 
 Again, when the user decides to sell their possessions, the app connects them to other users and local vendors, recycling industries that are willing to buy these items. In this way, a bridge is established between the buyers and sellers which results in easy exchange of waste products while ensuring reuse of these items in question. 
@@ -27,7 +30,7 @@ Also, this can enable designers and creatives looking for an income source to be
 
 <hr>
 
-<h3>Scrap Cloth:</h3>
+## Scrap Cloth:
 
  ![image](https://github.com/SumaitaB/RecycloBD/assets/51522304/b6e34341-9f49-4d2f-a20c-3ee43784e960) ![image](https://github.com/SumaitaB/RecycloBD/assets/51522304/3738291d-051b-4104-b881-437a09d60e81)
 
@@ -39,7 +42,7 @@ Fig 02 demonstrates a clear example of how scrap fabric pieces could be reused t
 Again, Industries produce tons and tons of waste every year and oftentimes, these wastes are either fully discarded without considering reuse or not properly recycled at all. To solve this big of an issue, officials involved in industries can sell wastes in bulk while recycling industries as well as general industries and people looking for scraps with a view to reusing these can buy these. In this case, wastes are to be sold and bought in bulk (weighted in kilograms or tons). For instance- In Canada, the cities of Markham, ON and Brandon, MB banned textiles from their respective garbage collections in an attempt to curb higher volumes of fabric from further occupying landfill space. Vancouver, BC is weighing a similar decision https://advancedwastesolutions.ca/dressing-the-problem-textile-waste-in-canada/Canada is currently dealing with this billion-dollar issue by banning textiles from garbage collection in several cities to make sure that people reach out for reusing, recycling and donating textile items. This shows that scrap and waste management isn’t just a national issue at this stage but a global issue. If developed countries like Canada could put so much emphasis on waste management, we as a developing country should be putting more emphasis on this issue and just like how we turned our men into manpower, we could actually turn our trash into treasure and thus paving a way to increase the country’s over-all economic and environmental wellbeing.
 <hr>
 
-<h3>Glass and scrap wood pieces:</h3>
+## Glass and scrap wood pieces:
 Most of us have small pieces of glass and wood laying around in the house that we are ready to throw away. Instead of throwing away such pieces, we could sell these wastes in bulk which would not only help us get rid of waste materials at a profit but will also help creative glass artists buy these, paint on these, reprocess and then sell at a profitable price.
 
 
@@ -56,7 +59,9 @@ Fig:03 shows a clear instance of how old glass bottles and scrap wood pieces cou
 We come across situations where we want to sell old books and paper lying around the house, such wastes could be sold to recycling industries, local vendors and creatives that could turn paper waste into eye-catching pieces through this app.
 
 <hr>
-<h3>Plastic Items:</h3>
+
+## Plastic Items:
+
 <img width="229" alt="Capture" src="https://github.com/SumaitaB/RecycloBD/assets/51522304/a8f761eb-46a3-4605-b871-1504ce6e0bec">
 
 
@@ -80,7 +85,8 @@ A flow chart showing the facilities available in the app is as follows:
 <img width="358" alt="Capture2" src="https://github.com/SumaitaB/RecycloBD/assets/51522304/6a0caa30-813f-45d2-97f6-9e0b94343b61">
 
 <hr>
-<h3>App Interface:</h3>
+
+## App Interface:
 
 <h3>App Logo</h3>
 <img width="471" alt="Captureew" src="https://github.com/SumaitaB/RecycloBD/assets/51522304/2a44795b-0a98-49c7-b7a7-071a77c4e4d4">
@@ -101,7 +107,7 @@ Drawn by hand using Adobe Draw and for touch ups, Adobe Illustrator was used to 
 
 For using the app, each type of users has to sign up and login. 
 
-<h3>Individual User:</h3>
+## Individual User:
 
 •	User can donate their clothing's by first clicking on the donate option.
 
@@ -117,7 +123,7 @@ a.	The user can get volunteering certification from our affiliated organizations
 
 b.	The user can get different vouchers & discounts as a gift, so that they can feel encouraged.
 
-<h3>Extile Industry:</h3>
+## Extile Industry:
 
 •	They can contact use directly whenever any ad is posted on our app.
 
@@ -129,13 +135,14 @@ b.	The user can get different vouchers & discounts as a gift, so that they can f
 
 •	Our target is to help these organizations get as much as resources from our platform.
 
-<h3>Recycling Industry:</h3>
+## Recycling Industry:
 
 •	They can post adds on the materials they need in our app so that we can provide them the proper materials they need, this will keep the cycle alive and a strong recycling process on the move that can reduce a noticeable amount of waste.
 
 
 <hr>
-<h3>App dashboard: </h3>
+
+## App dashboard:
 <img width="160" alt="Capture3" src="https://github.com/SumaitaB/RecycloBD/assets/51522304/c53a93b7-0717-441d-bf74-8002660c3c14">
 
  
@@ -143,7 +150,7 @@ Fig 06: App Dashboard.
 
 The App dashboard consists of the following features:
 
-<h3>1.	Donate: </h3>
+## 1.	Donate
 Users can donate apparel, books, paper and other items. After clicking on the donate option the user will have to choose a delivery option,
 
 a.	The user can use our delivery service to send their bundle to our storage.
@@ -151,7 +158,7 @@ a.	The user can use our delivery service to send their bundle to our storage.
 b.	 The user can bring their own bundle to their nearest storage.
 
 
-<h3>2.	Buy</h3>
+## 2.	Buy
 The recycling industries as well as waste management warehouses or fashion houses that convert scrap to useable fashion items can buy waste materials from our storage or from any industries.
 Users can also buy recycled & reprocessed items such as: rugs and bags made from textile scraps that are both creative and eye-striking at the same time.
 
