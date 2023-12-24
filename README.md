@@ -168,7 +168,7 @@ Household waste or worn-out products such as old furniture, books, paper etc. ca
 Creatives who reprocess scraps by turning wastes into useful items can sell those items through this app.
 
 
-<h3>4.	Register</h3>
+## 4.	Register
 It is required for industry management to register as authentic industries so that these industries can sell their waste through this app. This step is necessary to prevent scams from happening since registered industries would be considered authentic through proper verification.
 Furthermore, different NGOs and Volunteering Communities can register through this app and actively provide service accordingly.
 
@@ -181,7 +181,7 @@ This feature gives necessary info about the app such as copyrights, permissions,
 
 <hr>
 
-<h3>Vision Behind RecycloBD</h3>
+## Vision Behind RecycloBD
 
 In conclusion, the vision behind this mobile application consists of the following key points:
 
@@ -200,7 +200,7 @@ In conclusion, the vision behind this mobile application consists of the followi
 
 <hr>
 
-<h3>Future Work</h3>
+## Future Work
 
 Our future plans consist of the following focal points:
 
@@ -219,7 +219,8 @@ Our future plans consist of the following focal points:
 
 •	Implementing the app to its full potential by updating the facilities as per the country’s demands as well as hopefully turning it into an app capable of providing service globally.
 <hr>
-<h3>SWOT Analysis</h3>
+
+## SWOT Analysis
 <img width="643" alt="1" src="https://github.com/SumaitaB/RecycloBD/assets/51522304/5b39af57-09fe-4a83-91ff-e6d587380ea8">
 <hr>
 <img width="625" alt="2" src="https://github.com/SumaitaB/RecycloBD/assets/51522304/5ee2cd65-6084-4967-9820-4c33fdd87501">
